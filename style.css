@@ -1,11 +1,13 @@
 body {
 background-color: black;
 background-image: url "https://tkani-anna.ru/d/448582/d/2437_2017_setka.jpg";
+color: green;
+font-family: Hawaii 5-0, sans-serif;
 }
 
 .block1 {
 font-size: 32pt;
-font-color: blue;
+
 padding: 30px;
 margin: 15%;
 }
@@ -15,6 +17,6 @@ margin: 15%;
 }
 
 .block3 {
-font-color: green;
+
 font-size: 14pt;
 }
